@@ -1,0 +1,10 @@
+[Plugin]
+Loader=python
+Module=seek
+IAge=2
+Name=Seek
+Description=Seek forwards 10 seconds / backwards 5 seconds, in current track. Ver 1.0.
+Authors=Cathal Garvey <rhythmbox-plugins@cgarvey.com>
+Copyright=Copyright © 2013 Cathal Garvey
+Website=http://cgarvey.ie/
+
