@@ -20,7 +20,7 @@ For recent Debian/Ubuntu installations, this is in `~/.local/share/rhythmbox/`
 * [Download this plugin](https://github.com/cgarvey/rhythmbox-seek/archive/master.zip).
 * Extract the zip file to your `plugins` directory. Your `plugins` directory should now contain a `rhythmbox-seek-master` directory.
 * Start, or restart, Rhythmbox
-* Go to `Edit` > `Plugins` menu, and sroll down to `Seek`. Tick the checkbox to enable it.
+* Go to `Edit` > `Plugins` menu, and scroll down to `Seek`. Tick the check-box to enable it.
 * You should now be able to seek forward/backward using keyboard shortcuts or the new menu items under the `Control` menu.
 
 
@@ -33,7 +33,7 @@ Use the menu items (under `Control`), or use the arrow/cursor keys as keyboard s
 
 Support
 -------
-I don't offer any support, but if you create an Issue here on Github, or get in touch with me on Twitter [@cgarvey](https://twitter.com/cgarvey) I'll do my best to address any issues.
+I don't offer any support, but if you create an Issue here on GitHub, or get in touch with me on Twitter [@cgarvey](https://twitter.com/cgarvey) I'll do my best to address any issues.
 
 Credits
 -------
